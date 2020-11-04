@@ -1,0 +1,51 @@
+body,html{
+  background: LightGray;
+  font-family: sans-serif;
+}
+
+.block {
+  display: block;}
+
+.cent {
+  text-align: center;}
+
+.line {
+  display: inline;}
+
+ul.fin li {
+  display: inline;
+  vertical-align: center;
+  }
+
+a.nav-up:hover{
+  color: orange;
+}
+
+.nav-up{
+  color: black;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+#Menu {
+  text-align: center;
+  border: Teal 2px solid;
+  border-radius: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.start-nav{
+  color: red:
+}
+
+img.mockup {
+  display: inline;}
+
+h1 {
+  text-align: center;}
+
+ul.start li {
+  display:inline;
+  padding: 20px
+    }

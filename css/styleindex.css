@@ -1,0 +1,88 @@
+body,html{
+
+  font-family: Angsana New;
+}
+
+.TOPPAGE{
+  display: block;
+  text-align: center;
+  color: #F47920;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.datos{
+  display: inline-block;
+  vertical-align: middle;
+  border: Teal 2px solid;
+  border-radius: 10px;
+}
+
+.datosautor{
+  color: #FF5900;
+}
+
+.subtitulos
+{
+  color: #006680;
+}
+
+.naveg{
+  padding: 20px;
+  text-decoration: none;
+  color: #006680;
+  font-size: 20px;
+  border: #005888 1px solid;
+  border-radius: 20px;
+  font-weight: bold;
+}
+
+.naveg:hover{
+  background: #F47920;
+  font-weight: bold;
+}
+
+#navegacion {
+  text-align: center;
+  background: #F0B429;
+  padding: 20px;
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
+
+#AUTOR{
+  width: 70%;
+  height: auto;
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+}
+
+.information{
+  display: inline-block;
+}
+
+#tweetsunad{
+border:  #005883 2px solid;
+border-radius: 10px;
+color: #006680;
+text-align: center;
+font-size: 20px;
+}
+
+#phto{
+  display: inline-block;
+  height: 200px;
+  width: 150px;
+  text-align: center;
+  padding-left: 100px;
+}
+.phtotitle{
+  padding-left: 100px;
+
+}
+
+
+#Twunad{
+    display: inline;
+  }
