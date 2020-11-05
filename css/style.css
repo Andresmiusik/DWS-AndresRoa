@@ -33,9 +33,9 @@ body,html{
   }
 
   .nav-up:hover{
-  background: #F47920;
+  background: #005888;
   font-weight: bold;
-  color: orange;
+  color: #F47920;
   }
 
 #Menu {
@@ -57,14 +57,16 @@ body,html{
 #Twunad{
   display: inline-block;
   width: 30%;
+  vertical-align: top;
 }
 
 #tweetsunad{
 border:  #005883 2px solid;
 border-radius: 10px;
-color: #006680;
+color: #F47920;
 text-align: center;
 font-size: 20px;
+background: #006680;
 }
 
 

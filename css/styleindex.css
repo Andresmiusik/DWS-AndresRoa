@@ -38,8 +38,9 @@ body,html{
 }
 
 .naveg:hover{
-  background: #F47920;
+  background: #005888;
   font-weight: bold;
+  color:#F47920;
 }
 
 #navegacion {
