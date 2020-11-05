@@ -36,3 +36,37 @@ background: #005888;
 font-weight: bold;
 color:#F47920;
 }
+
+#contenido{
+  display: inline-block;
+  width: 60%;
+  text-align: justify;
+  padding-left: 2%;
+  margin-right: 4%;
+  vertical-align: top;
+  border: 2px #005883 solid;
+}
+
+#contenido2{
+  display: inline-block;
+  width: 60%;
+  text-align: justify;
+  padding-left: 2%;
+  margin-right: 4%;
+  vertical-align: top;
+  border: 2px #005883 solid;
+}
+
+#Twunad{
+    display: inline-block;
+  }
+
+
+#tweetsunad{
+border:  #005883 2px solid;
+border-radius: 10px;
+color: #F47920;
+text-align: center;
+font-size: 20px;
+background: #006680;
+}
