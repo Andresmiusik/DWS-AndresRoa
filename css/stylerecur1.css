@@ -1,0 +1,98 @@
+body,html{
+  font-family: Angsana New;
+  font-size: 1.1rem;
+}
+
+#Menu {
+  background: #F0B429;
+  text-align: center;
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
+
+.TOPPAGE{
+  display: block;
+  text-align: center;
+  color: #F47920;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.nav-up{
+  padding: 15px;
+  color: black;
+  text-decoration: none;
+  font-size: 20px;
+  color: #006680;
+  border: #005888 1px solid;
+  border-radius: 20px;
+  font-weight: bold;
+  vertical-align: top;
+  display: inline-block;
+}
+
+.nav-up:hover{
+background: #005888;
+font-weight: bold;
+color:#F47920;
+}
+
+#linktiempo{
+text-decoration: none;
+color: #006680;
+}
+
+#linktiempo:hover{
+  background: #006680;
+  color: white;
+}
+
+.exampleimg {
+  display: block;
+  position: center;
+  width: 50%
+}
+
+#contenido{
+  display: inline-block;
+  width: 60%;
+  text-align: justify;
+  padding-left: 2%;
+  margin-right: 4%;
+}
+
+.contstyle{
+  border: 2px #006680 solid;
+  border-radius: 1em;
+  margin-bottom: 2px;
+  text-align: justify;
+  padding-left: 3px;
+}
+
+#contenido h2 {
+  color:  #005883;
+  font-size: 18px;
+}
+
+#contenido h3 {
+  color: #F47920;
+  font-size: 20px;
+}
+
+
+
+#Twunad{
+  display: inline-block;
+  width: 30%;
+  vertical-align: top;
+}
+
+#tweetsunad{
+border:  #005883 2px solid;
+border-radius: 10px;
+color: #F47920;
+text-align: center;
+font-size: 30px;
+background: #006680;
+
+}

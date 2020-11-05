@@ -1,6 +1,13 @@
 body,html{
-  background: LightGray;
-  font-family: sans-serif;
+  font-family: Angsana New;
+}
+
+.TOPPAGE{
+  display: block;
+  text-align: center;
+  color: #F47920;
+  font-size: 30px;
+  font-weight: bold;
 }
 
 .block {
@@ -12,32 +19,54 @@ body,html{
 .line {
   display: inline;}
 
-ul.fin li {
-  display: inline;
-  vertical-align: center;
+  .nav-up{
+    padding: 15px;
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    color: #006680;
+    border: #005888 1px solid;
+    border-radius: 20px;
+    font-weight: bold;
+    vertical-align: top;
+    display: inline-block;
   }
 
-a.nav-up:hover{
+  .nav-up:hover{
+  background: #F47920;
+  font-weight: bold;
   color: orange;
-}
-
-.nav-up{
-  color: black;
-  text-decoration: none;
-  font-size: 18px;
-}
+  }
 
 #Menu {
+  background: #F0B429;
   text-align: center;
-  border: Teal 2px solid;
-  border-radius: 10px;
-  padding-top: 5px;
-  padding-bottom: 5px;
+  border-radius: 20px;
+  margin-bottom: 20px;
 }
 
-.start-nav{
-  color: red:
+.start{
+  text-align: center;
 }
+#Inicio{
+  display: inline-block;
+  width: 69%;
+  vertical-align: top;
+}
+
+#Twunad{
+  display: inline-block;
+  width: 30%;
+}
+
+#tweetsunad{
+border:  #005883 2px solid;
+border-radius: 10px;
+color: #006680;
+text-align: center;
+font-size: 20px;
+}
+
 
 img.mockup {
   display: inline;}
