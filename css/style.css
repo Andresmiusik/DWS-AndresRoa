@@ -19,7 +19,7 @@ body,html{
 .line {
   display: inline;}
 
-  .nav-up{
+.nav-up{
     padding: 15px;
     text-decoration: none;
     font-size: 20px;
@@ -47,10 +47,36 @@ body,html{
 .start{
   text-align: center;
 }
+
+
 #Inicio{
   display: inline-block;
-  width: 69%;
+  width: 65%;
   vertical-align: top;
+  font-size: 20px;
+  padding-left: 20px;
+}
+
+#InicioSegundo{
+  display: inline-block;
+  width: 65%;
+  vertical-align: top;
+  font-size: 20px;
+  padding-left: 10px;
+}
+
+.contenido{
+  border: 1px black solid;
+  padding-left: 10px;
+  margin-bottom: 5px;
+}
+
+.Titulosdescriptores {
+  color: #005888;
+}
+
+.Subtitulosdescriptores {
+  color: #F47920;
 }
 
 #Twunad{
