@@ -45,20 +45,80 @@ color:#F47920;
   margin-right: 4%;
   vertical-align: top;
   border: 2px #005883 solid;
+  border-radius: 10px;
 }
 
 #contenido2{
   display: inline-block;
-  width: 60%;
   text-align: justify;
+  width: 60%;
   padding-left: 2%;
   margin-right: 4%;
   vertical-align: top;
   border: 2px #005883 solid;
+  border-radius: 10px;
+}
+
+.Centrado{
+  text-align: center;
+}
+
+#Act1 {
+  text-decoration: none;
+  display: inline-block;
+  text-align: center;
+  background: #005883;
+  color: #F47920;
+  padding: 10px;
+  border: #0A84BF 2px solid;
+  border-radius: 20px;
+  font-weight: bold;
+}
+  #Act2 {
+    text-decoration: none;
+    display: inline-block;
+    text-align: center;
+    background: #F47920;
+    color: #005883;
+    padding: 10px;
+    border: #B0591A 2px solid;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+#Act1:hover{
+  background: #F47920;
+  color: #005883;
+  border: #B0591A 2px solid;
+  border-radius: 20px;
+  font-weight: bold;
+}
+
+#Act2:hover{
+  background: #005883;
+  color: #F47920;
+  border: #0A84BF 2px solid;
+  border-radius: 20px;
+  font-weight: bold;
+}
+
+#Actividad2{
+  border-top: 2px #005883 solid;
+  margin-right: 20px;
+}
+
+.resltar{
+  color: red;
+}
+
+.ejemplo{
+  height: 15em;
+
 }
 
 #Twunad{
     display: inline-block;
+    vertical-align: top;
   }
 
 
