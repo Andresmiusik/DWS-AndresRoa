@@ -18,6 +18,10 @@ body,html{
   font-weight: bold;
 }
 
+#Titlepage{
+  font-size: 1.2em;
+}
+
 .nav-up{
   padding: 15px;
   color: black;
